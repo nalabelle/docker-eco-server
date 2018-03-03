@@ -1,0 +1,3 @@
+#!/bin/bash
+
+su -s /bin/sh -c 'mono /app/eco/EcoServer.exe -nogui' abc
